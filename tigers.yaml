@@ -2,7 +2,11 @@ team: Tigers
 
 manager: Donald
 
+<<<<<<< HEAD
 coach : Kenneth
+=======
+coach : Deborah
+>>>>>>> conflict-1
 
 members:
   - Linda
